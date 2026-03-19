@@ -12,6 +12,7 @@ Construire un SaaS/agence pour artisans BTP avec :
 
 ## Control Tower
 Pour avoir une vue d'ensemble, utilise :
+- `10-control-tower/master-dashboard.md` comme point d'entrée principal
 - les dossiers de ce workspace comme source de vérité
 - `07-agents/` pour les rôles et responsabilités
 - `08-playbooks/` pour les handoffs et accès
