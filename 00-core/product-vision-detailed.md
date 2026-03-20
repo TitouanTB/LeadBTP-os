@@ -60,3 +60,5 @@ Un referral qualifié = artisan indépendant qui accepte un appel de 15 min.
 - Le site est le point d'entrée principal du système
 - Le client doit percevoir un rendu agence, pas template générique
 - Le pipeline site → webhook → lead → inbox → SMS est central
+- La PWA mobile est une priorité produit forte
+- Le tracking referral LeadBTP et campagne anciens clients est prioritaire juste après le MVP
